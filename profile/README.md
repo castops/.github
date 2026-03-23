@@ -1,22 +1,32 @@
 <div align="center">
 
-# CAST — CI/CD Automation & Security Toolkit
+# CAST — Cloud-Native Autonomous Systems & Training ⚡️
 
-**One engineer's standards. Every team's pipeline.**
+**One engineer's standards. Every team's pipeline. Every cluster's efficiency.**
 
-[![PyPI version](https://img.shields.io/pypi/v/castops.svg)](https://pypi.org/project/castops/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-ready-2088FF?logo=github-actions&logoColor=white)](https://github.com/castops/cast/actions)
+[![PyPI version](https://img.shields.io/pypi/v/castops.svg)](https://pypi.org/project/castops/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.28+-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io)
 
 [English][English] | [中文][Chinese]
 
 </div>
 
-CAST is a DevSecOps governance toolkit for GitHub Actions and GitLab CI —
-so a single DevOps engineer can enforce pipeline standards across every team,
-without personally reviewing every repository. 
+CAST is an open-source platform engineering suite for the AI-Native era. We empower a single engineer to not only enforce global CI/CD standards but also to automate GPU cost-efficiency across modern clusters.
 
-More CI/CD platforms coming soon.
+---
+
+### 📦 The CAST Ecosystem
+
+#### 🚀 [Cast CLI](https://github.com/CastOps/cast-cli)
+*The DevSecOps Governance Toolkit.*
+
+Enforce pipeline standards across GitHub Actions & GitLab CI without manual reviews. Ship code securely and uniformly.
+
+#### ✂️ [CastSlice](https://github.com/CastOps/cast-slice)
+*The GPU FinOps Engine for Kubernetes.*
+
+Automatically intercept resource requests and "slice" idle GPUs to maximize utilization. Run workloads cost-effectively.
 
 [English]: https://castops.github.io/cast/
 [Chinese]: https://castops.github.io/cast/zh/
